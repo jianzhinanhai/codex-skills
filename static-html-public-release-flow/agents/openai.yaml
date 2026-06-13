@@ -1,0 +1,7 @@
+interface:
+  display_name: "Static HTML Public Release Flow"
+  short_description: "Publish static HTML to a public web target."
+  default_prompt: "Use $static-html-public-release-flow to publish or republish static HTML to a public target, verify auth and provider setup, diagnose deployment failures, and confirm the final URL on desktop and mobile."
+
+policy:
+  allow_implicit_invocation: true
