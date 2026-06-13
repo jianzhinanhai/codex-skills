@@ -1,0 +1,7 @@
+interface:
+  display_name: "GitHub Pages Publish Playbook"
+  short_description: "Publish static HTML sites to GitHub Pages safely."
+  default_prompt: "Use $github-pages-publish-playbook to publish or republish a static HTML site to GitHub Pages, verify auth state, enable Pages, diagnose workflow failures, and confirm the final URL."
+
+policy:
+  allow_implicit_invocation: true
